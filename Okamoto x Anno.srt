@@ -1,0 +1,980 @@
+1
+00:00:01,727 --> 00:00:14,000
+This video was recorded during a discussion between director Kihachi Okamoto and director Hideaki Anno for Animage magazine in 1996.
+
+2
+00:00:15,000 --> 00:00:24,774
+Thanks to the cooperation of Kihachi Productions, director Anno, and others involved, we are able to broadcast this video.
+
+3
+00:00:25,873 --> 00:00:37,004
+The video itself was not recorded for broadcast. We apologize in advance for the quality of the picture and sound, which may be difficult to catch.
+
+4
+00:00:38,685 --> 00:00:49,899
+Throughout this interview, we hope you can feel the joy and passion of making films.
+
+5
+00:00:52,000 --> 00:00:59,000
+The director known as the "Artisan of Entertainment", Kihachi Okamoto
+
+6
+00:01:00,000 --> 00:01:06,000
+Evangelion series director, Hideaki Anno
+
+7
+00:01:06,758 --> 00:01:11,372
+A rare video interview between the two is now available.
+
+8
+00:01:11,980 --> 00:01:18,981
+Kihachi Okamoto and Hideaki Anno at the former Okamoto residence in Ikuta, 1996.
+
+9
+00:01:20,377 --> 00:01:24,000
+The Screen
+
+10
+00:01:28,125 --> 00:01:37,400
+"Battle of Okinawa" is the movie I've seen the most times in my life. I've seen it over 100 times.
+
+13
+00:01:41,000 --> 00:01:45,929
+Why did you like it so much?
+
+14
+00:01:46,000 --> 00:01:48,500
+I think it's a physiological thing.
+
+15
+00:01:49,600 --> 00:01:55,641
+When I went to shoot "Battle of Okinawa," the area south of Mabuni
+
+16
+00:01:55,641 --> 00:01:58,776
+was still scattered with human bones.
+
+17
+00:02:00,890 --> 00:02:06,453
+There were monuments for the loyal souls of each prefecture
+
+18
+00:02:06,453 --> 00:02:12,230
+being built as if in competition with each other.
+
+19
+00:02:12,426 --> 00:02:16,285
+I thought it would be better to spend money
+
+20
+00:02:16,285 --> 00:02:21,976
+on collecting the bones and mourning than to build such things.
+
+21
+00:02:22,118 --> 00:02:31,172
+So I didn't like the southern part of that place itself because I had the feeling
+
+22
+00:02:31,592 --> 00:02:36,143
+that there would be dead bodies buried there, even where I was walking.
+
+23
+00:02:36,690 --> 00:02:45,431
+I'm jealous of Anno's work, because in anime you can put as many people as you want in a shot.
+
+19
+00:02:47,600  -->  00:02:55,900
+If it's a live action, every time you add an actor, it costs more money.
+These days extras cost 6,800 yen per a day.
+
+20
+00:02:56,000  -->  00:03:01,250
+But back then it was paid in US dollars.
+
+26
+00:03:03,000 --> 00:03:11,188
+We didn't have enough money, so 19 members of us went to Okinawa to film.
+
+27
+00:03:11,493 --> 00:03:14,733
+But then 20-odd press people showed up there.
+
+28
+00:03:18,374 --> 00:03:24,108
+I was really pissed off. "Why are there more reporters than us?"
+
+29
+00:03:24,500  -->  00:03:32,845
+We couldn't afford enough actors, so I ended up in the film too. I played the role of the marine saying "I can't see the sea".
+
+32
+00:03:32,900 --> 00:03:34,475
+So you are in the film?
+
+33
+00:03:35,256 --> 00:03:37,533
+Yeah, because there weren't enough actors.
+
+34
+00:03:38,095 --> 00:03:44,727
+No wonder you said that you were jealous of anime filmmaking.
+
+35
+00:03:44,752 --> 00:03:48,401
+But of course I'm sure there must be tough things as well.
+
+36
+00:03:48,480 --> 00:03:51,800
+Yes there are. I'm in turn jealous of live-action filmmaking.
+
+37
+00:03:53,700 --> 00:03:58,220
+If I worked in animation, I would be jealous of live-action, and perhaps likewise vice versa.
+
+39
+00:03:59,000 --> 00:04:01,673
+So we both want what the other has.
+
+40
+00:04:03,573 --> 00:04:07,063
+You can't move the camera in animation.
+
+41
+00:04:07,320  -->  00:04:12,800
+Recently, we started using CGI and it helps making animation much easier.
+But even so, some cuts just stink of CGI.
+
+43
+00:04:14,027 --> 00:04:18,150
+I can tell you're working pretty hard on it.
+
+44
+00:04:18,200 --> 00:04:29,500
+You make it look like people are moving by showing their shadows without moving the camera.
+
+46
+00:04:29,589 --> 00:04:31,622
+By shadows?
+-Yeah.
+
+47
+00:04:33,020  -->  00:04:38,250
+In case of animation, I mainly use a fixed camera.
+
+37
+00:04:38,300  -->  00:04:40,400
+Or I can use a panning camera, too.
+
+49
+00:04:41,918 --> 00:04:43,700
+The tempo is good, too.
+
+50
+00:04:45,800 --> 00:04:49,646
+The tempo is directly influenced by Okamoto-san.
+
+51
+00:04:50,537 --> 00:04:51,670
+Thank you.
+
+52
+00:04:52,961 --> 00:04:57,317
+No one is doing it, but I believe that tempo is what's best for anime.
+
+53
+00:04:57,791 --> 00:05:00,430
+The charm of when you cut.
+
+54
+00:05:00,960 --> 00:05:02,855
+Not so much the content of the cut
+
+55
+00:05:02,855 --> 00:05:06,136
+I'm talking about the moment the shot changes. The satisfaction there.
+
+56
+00:05:06,136 --> 00:05:10,976
+I feel there's a lot of that in your films.
+And it's exactly that which is best for anime.
+
+58
+00:05:11,100 --> 00:05:15,663
+Again, the amount of information given by a fixed camera,
+and the moment the shot changes.
+
+60
+00:05:16,484 --> 00:05:19,546
+The change in silhouette when a character immediately switches
+
+61
+00:05:19,571 --> 00:05:21,525
+from the right side of the frame to the left via the cut.
+
+62
+00:05:21,559 --> 00:05:30,000
+Especially with the dull standard aspect ratio,
+I think that's about the only thing you can do.
+
+64
+00:05:30,452 --> 00:05:34,500
+It's also great the way you use over-the-shoulder shot.
+
+65
+00:05:35,600  -->  00:05:42,000
+Especially with Cinescope, it's great to be able to do that, isn't it? It's a shame we don't have Cinescope now.
+
+67
+00:05:42,070 --> 00:05:45,200
+Even with the Vista, I feel the frame is just halfway there, and it's not good enough.
+
+68
+00:05:45,250  -->  00:05:48,900
+I hate standard aspect. But I don't like Vista either because it's not good enough.
+
+69
+00:05:48,900 --> 00:05:51,595
+Film by Cinescope is the best after all.
+
+70
+00:05:54,194 --> 00:05:59,000
+With CinemaScope, it's interesting how to fill in the empty spaces.
+
+71
+00:05:59,619 --> 00:06:02,051
+What do you mean by that?
+
+72
+00:06:02,051 --> 00:06:18,337
+For example, up to VistaVision size, both full shots and cowboy shots look good,
+
+73
+00:06:18,720 --> 00:06:24,297
+But when it comes to the CinemaScope size, whether you take a full shot or a cowboy shot,
+
+74
+00:06:24,297 --> 00:06:28,950
+you need to add something on both sides to make the shot look good.
+
+75
+00:06:30,911 --> 00:06:36,563
+But that makes it more interesting.
+
+76
+00:06:37,440 --> 00:06:40,791
+Also, with CinemaScope, the audience moves their heads
+
+77
+00:06:40,816 --> 00:06:43,976
+from right to left in the theater.
+
+78
+00:06:44,827 --> 00:06:47,429
+I don't think you can do that with TV.
+
+79
+00:06:47,429 --> 00:06:53,600
+That's why I think there's just no point if it's not CinemaScope.
+
+80
+00:06:55,488 --> 00:06:59,000
+The Long Shot
+
+81
+00:07:00,443 --> 00:07:04,693
+I was an assistant director for a good 15 years.
+
+82
+00:07:05,361 --> 00:07:12,900
+Generally, if directors don't have the obligation to teach the juniors, they also don't have the right to.
+
+83
+00:07:13,000 --> 00:07:27,000
+You gradually learn from small talks,
+when you were having a chat, or in a taxi on the way to work.
+
+85
+00:07:27,209 --> 00:07:34,400
+I learned that when you take a zooming picture, the lens should zoom in as close as possible.
+
+86
+00:07:34,500 --> 00:07:38,847
+And then when you take a long shot, the camera should be pulled away from the subject as far as possible.
+
+89
+00:07:38,900 --> 00:07:46,640
+It's better to have some kind of trigger for the next cut to get a rhythm.
+
+90
+00:07:46,680 --> 00:07:53,900
+Even just tapping the ash off your cigarette, you can shoot it as a long shot.
+
+91
+00:07:54,000 --> 00:08:01,186
+I heard that's better than just going to the next cut.
+
+92
+00:08:02,150 --> 00:08:05,899
+In fact, it's all about how far the camera angle can be pulled away from the subject.
+
+93
+00:08:06,240 --> 00:08:06,900
+Right.
+
+94
+00:08:07,000 --> 00:08:14,400
+But that was pretty pulled back. For us, we'd call that a long shot.
+
+95
+00:08:15,759 --> 00:08:18,101
+It's an extreme long shot, isn't it?
+
+96
+00:08:19,000 --> 00:08:23,852
+So the difference between the movie theater,
+
+97
+00:08:23,852 --> 00:08:29,976
+video specialty, and TV specialty is the long shot.
+
+99
+00:08:30,530  -->  00:08:42,000
+For example, when you want to show emotions with a long shot instead of a close-up shot, the camera angle should be pulled pretty far away from the subject.
+
+76
+00:08:43,000  -->  00:08:49,000
+I think it's a matter of how far the camera can go away from the subject. It's easy to do in anime because you can express it with drawings.
+
+103
+00:08:50,623 --> 00:08:54,681
+But in that case, you can't make any mistakes with the drawing. If you're not a good enough illustrator, it's out of the question.
+
+105
+00:08:57,680 --> 00:09:03,567
+It depends on the painter, just as a good play depends on the actor.
+
+106
+00:09:03,901 --> 00:09:05,800
+It's the same in that respect.
+
+107
+00:09:07,880 --> 00:09:11,632
+Editing
+
+108
+00:09:12,533 --> 00:09:16,150
+Is the tempo of that editing a physiological thing?
+
+109
+00:09:16,175 --> 00:09:20,100
+Do you cut by intuition, or have you already decided where to cut by the time you shoot?
+
+111
+00:09:20,116 --> 00:09:22,403
+Well, it's already been decided before shooting.
+
+112
+00:09:22,680 --> 00:09:38,000
+The minimum is 2 frames, but at least I need 8 frames for a single blink of an actor.
+So I feel 8 frames is important.
+
+115
+00:09:39,992 --> 00:09:44,924
+I've heard that it's 8 or 7 frames. And that to leave something in the viewers' minds without letting them confirm anything, it'd be 6 frames.
+
+116
+00:09:45,000  -->  00:09:49,000
+And that to make sure the viewers understand something, you need at least 9 frames.
+
+118
+00:09:49,646 --> 00:09:56,976
+I like using a multiple of 4. Like 8.
+
+120
+00:09:57,662 --> 00:10:04,761
+So if someone with slightly big eyes looks at it without blinking, I need 12 frames.
+
+121
+00:10:06,450 --> 00:10:11,620
+I like using 4 and 7. Even 2 frames are enough to leave an impression if it's a drawing.
+
+123
+00:10:11,960 --> 00:10:18,394
+Right, 2 frames has a subliminal effect?
+
+124
+00:10:19,450 --> 00:10:21,741
+That's a myth though, I think.
+
+125
+00:10:22,516 --> 00:10:26,700
+In the case of animation, the amount of information is limited because it's a drawing.
+
+126
+00:10:26,770 --> 00:10:31,040
+Therefore if the drawing is familiar to the viewer, even 2 frames are enough to leave an impression.
+
+127
+00:10:31,050 --> 00:10:43,061
+7 frames would be more than enough. If it's a moving image, 7 frames.
+If it's a still image though, even 2 or 3 frames can be too much.
+
+129
+00:10:43,150 --> 00:10:47,299
+Of course, 1 frame is not enough to understand.
+but 2 frames are definitely enough.
+
+131
+00:10:48,701 --> 00:11:00,000
+That's why I need 8 frames in a cut someone is running, 8 steps.
+
+132
+00:11:00,950 --> 00:11:04,200
+For walking, I feel 4 steps is enough.
+
+133
+00:11:05,780  -->  00:11:15,600
+So if I decide the number of steps is 4, changing the count to an odd number gives the impression that the character is in a bit of a hurry.
+
+134
+00:11:17,358 --> 00:11:21,560
+When it comes to battle scenes, I use 7 frames.
+
+137
+00:11:23,085 --> 00:11:26,000
+Right, I think it's better to use odd numbers in that situation.
+
+138
+00:11:26,761 --> 00:11:29,000
+I use 7 frames with the insert.
+
+139
+00:11:29,325 --> 00:11:39,212
+I actually shoot around 12 frames, and then in the cutting drop 3 frames or so. Maybe 6 or 5.
+
+141
+00:11:39,228 --> 00:11:46,000
+In the case of animation, I decide where to cut at the drawing stage.
+
+142
+00:11:47,000 --> 00:11:49,909
+except for AC (action cuts).
+
+143
+00:11:50,000 --> 00:11:55,000
+Also it depends on the tempo or the rhythm of the line.
+
+144
+00:11:57,495 --> 00:12:04,591
+It takes me about 12 hours to cut 20 minutes.
+
+145
+00:12:05,517 --> 00:12:10,587
+The longest one was 24 hours; over two days.
+
+146
+00:12:11,328 --> 00:12:21,608
+In my case, I usually have only 4 days to edit.
+
+147
+00:12:23,044 --> 00:12:29,166
+I did the editing of "EAST MEETS WEST" last year, and I had the same four days.
+
+148
+00:12:29,170  -->  00:12:33,000
+It really wasn't my tempo overall.
+
+150
+00:12:32,100 --> 00:12:44,473
+I found out afterward that I had a brain infarct.
+So I had been acting a bit strange since last February.
+
+112
+00:12:46,080  -->  00:12:54,300
+If I had known I was sick, I would have spent another day or two editing and going through a lot of polishing.
+
+113
+00:12:54,400  -->  00:13:00,000
+If I could have done that once or twice.
+I think the film would have had the tempo it has now.
+
+113
+00:13:02,050  -->  00:13:06,400
+But I was really bothered about it, so this spring I re-edited the film.
+
+158
+00:13:06,643 --> 00:13:10,000
+I didn't get my own tempo, so it bothered me so much.
+
+159
+00:13:10,432 --> 00:13:15,703
+I have a bit of a short temper.
+
+160
+00:13:17,000  -->  00:13:27,800
+For example, when I shoot a long scene, say 3-4 minutes, I might cut the opening and closing parts depending on if I'm annoyed.
+
+162
+00:13:29,340 --> 00:13:31,920
+I always cut off the last part of the cut, too.
+
+163
+00:13:32,186 --> 00:13:38,144
+It feels great when the scene changes right when the line ends.
+
+164
+00:13:39,325 --> 00:13:44,472
+Okamoto's films taught me that.
+
+165
+00:13:46,000  -->  00:13:49,300
+My films are just imitations,
+so I can't help but feel embarrassed when you watch them.
+
+166
+00:13:49,350 --> 00:13:51,990
+No, I think you're right.
+
+167
+00:13:52,050 --> 00:13:58,600
+It takes so long to get there by yourself.
+
+169
+00:14:01,900 --> 00:14:05,528
+Reaction Shots
+
+170
+00:14:06,000 --> 00:14:12,434
+Fundamentally, the audience won't enjoy it if you don't enjoy it yourself.
+
+171
+00:14:12,506 --> 00:14:14,394
+Absolutely.
+
+172
+00:14:14,812 --> 00:14:17,812
+So you have to do what makes you feel good.
+
+173
+00:14:19,000 --> 00:14:27,632
+When you need a reaction shot, you show the side the viewers want to see.
+
+174
+00:14:28,203 --> 00:14:31,933
+If a character is attacking another in one cut,
+
+175
+00:14:31,940  -->  00:14:38,200
+the viewers want to see what kind of reaction the character on the defense has.
+That's why I put in a reaction shot.
+
+177
+00:14:38,803 --> 00:14:43,286
+There's always a reaction shot in your films, isn't it?
+
+178
+00:14:43,300 --> 00:14:48,500
+That's why in scenes of 40-50 cuts, I make the attack and the defense reactions 50/50.
+
+180
+00:14:48,800 --> 00:14:59,300
+Young people say that's difficult. But as long as you remember to do it that way, I think it's the easiest.
+
+182
+00:14:59,656 --> 00:15:03,776
+"Blue Christmas" is also good.
+There's always reaction shots in that one too.
+
+184
+00:15:03,800 --> 00:15:07,200
+I liked how there were never lines spoken off-camera.
+
+185
+00:15:08,180 --> 00:15:15,576
+Instead of a long take by a fixed camera,  it's keeps doing shot/reverse shot.
+That's what's cool about "Blue Christmas."
+
+187
+00:15:16,000 --> 00:15:20,276
+No matter how small the reaction, it is shown.
+
+188
+00:15:20,569 --> 00:15:27,436
+For example even when Nakadai says "Oh" in reaction, it's shown.
+That level of detail and thoroughness is great.
+
+190
+00:15:28,620 --> 00:15:33,194
+Invariably, if anything happens, a "yes" reaction is inserted.
+
+191
+00:15:35,292 --> 00:15:39,434
+I love cutting when "yes" is said.
+
+192
+00:15:40,434 --> 00:15:44,768
+I also when storyboarding, always end up inserting those cuts.
+
+193
+00:15:45,000 --> 00:15:47,986
+The staff say that's too much though.
+
+194
+00:15:48,082 --> 00:15:57,566
+But when I watched your work I had this feeling of closeness.
+
+195
+00:15:57,591 --> 00:15:58,932
+Thank you
+
+196
+00:15:58,956 --> 00:16:00,456
+That feeling was there, so...
+
+197
+00:16:01,127 --> 00:16:08,984
+If someone asked me who my favorite director was, I would say Kihachi Okamoto immediately.
+
+199
+00:16:09,087 --> 00:16:10,723
+It is a great honor.
+
+200
+00:16:13,945 --> 00:16:18,945
+But sometimes when I watch a film that has no reaction shots,
+
+201
+00:16:19,450 --> 00:16:26,970
+When the story goes on and on, I start to want to see the other party's reaction.
+I wonder what kind of face they're making, and my head starts to hurt.
+
+205
+00:16:27,250  -->  00:16:31,370
+Recently, the style is to let the audience think about that.
+
+207
+00:16:32,887 --> 00:16:35,633
+Wondering if we've been giving them too much of that sense of closeness.
+
+208
+00:16:36,408 --> 00:16:39,501
+I've been thinking about how to intentionally not show the reactions.
+
+209
+00:16:39,765 --> 00:16:42,765
+Well you have no other choice if you're doing long takes.
+
+210
+00:16:44,620 --> 00:16:49,000
+Nevertheless, I'm getting a little tired of that, and I'm wondering if there's something new.
+
+212
+00:16:49,848 --> 00:16:53,765
+Eyeline
+
+213
+00:16:55,000 --> 00:17:03,492
+Lately, maybe I'm doing it on purpose, but I make an actor look the other way.
+
+215
+00:17:04,000  -->  00:17:10,000
+I know the direction of eyes should go this way, but I change the direction to that way.
+
+217
+00:17:11,000 --> 00:17:13,096
+In my opinion, the direction of eyes is very important.
+
+218
+00:17:13,300  -->  00:17:20,400
+For instance, I put in storyboards "eyeline this way."
+I'm so influenced by you that I tend to make the character look into the camera.
+
+220
+00:17:20,450  -->  00:17:29,000
+Well, the direction of eyeline should be as near as possible.
+Nevertheless, A still needs to look at B while speaking.
+
+221
+00:17:29,100  -->  00:17:34,800
+And B needs to look back at A in reaction.
+
+224
+00:17:34,900  -->  00:17:39,800
+In my work there's so many shots where the characters look into the camera,
+that the artists are getting starting to hate me though.
+
+226
+00:17:40,026 --> 00:17:43,297
+Because it's hard to draw the face straight on. It's not easy.
+
+227
+00:17:43,884 --> 00:17:48,024
+It's also hard to act when the character looks into the camera.
+
+228
+00:17:48,025 --> 00:17:52,330
+But the eyelines that are close look more powerful, right?
+
+229
+00:17:52,331 --> 00:17:54,758
+Right. I like that they have energy.
+
+231
+00:17:54,758 --> 00:18:00,113
+The ones that shoot from the side,
+the ones shot with a multi-cam setup...
+
+233
+00:18:00,114  -->  00:18:09,000
+There's a lot of these on TV, where one shot is done properly, and the other is done sloppily.
+
+235
+00:18:09,001 --> 00:18:11,760
+I'm not a big fan of cutting between profile shots and straight-on shots.
+
+236
+00:18:11,770  -->  00:18:15,800
+I prefer cutting between two straight-on shots, where both are looking at the camera.
+
+237
+00:18:16,200  -->  00:18:23,300
+Where I'm able to beautifully show the character's eyes' positions in the frame.
+
+239
+00:18:24,100  -->  00:18:28,300
+Drawings are at the end of the day two-dimensional, so the information is limited.
+
+241
+00:18:28,303 --> 00:18:34,100
+When a cut occurs, I feel that the viewers look for the character's eyes.
+
+242
+00:18:34,446 --> 00:18:39,203
+That's why I think acting by eyes is important, but unfortunately people don't pay enough attention to it.
+
+244
+00:18:39,680  -->  00:18:45,280
+It would be fine if they were doing it on purpose, but it doesn't look like that.
+
+246
+00:18:45,900  -->  00:18:49,000
+It's like they're not even aware of it.
+Or they just don't care.
+
+247
+00:18:50,000  -->  00:18:52,450
+When I watch stuff like that it annoys me a bit.
+
+248
+00:18:52,580  -->  00:18:59,100
+Moreover, anime characters have big eyes.
+
+249
+00:18:59,105 --> 00:19:02,150
+Yes indeed.
+
+250
+00:19:02,545 --> 00:19:07,720
+There are practical reasons for that.
+
+251
+00:19:08,478 --> 00:19:16,080
+The character needs to be in symbolic form.
+Otherwise, it ends up being a drawing that not all artists can draw.
+
+253
+00:19:16,577 --> 00:19:18,561
+But the good thing is that a character can act with eyes.
+
+254
+00:19:19,662 --> 00:19:21,975
+By changing the position of the pupil, etc.
+
+255
+00:19:22,000 --> 00:19:29,000
+Yes, but a drawing is just a drawing.
+So when an animated character does serious acting,
+
+257
+00:19:30,000 --> 00:19:36,333
+it becomes cheap after a certain point. It loses believability.
+
+259
+00:19:38,025 --> 00:19:42,000
+The Director's Job
+
+260
+00:19:42,422 --> 00:19:48,422
+There are still some young directors who have aspirations.
+
+261
+00:19:49,800 --> 00:19:51,400
+Still now.
+
+262
+00:19:51,675 --> 00:19:55,875
+Yes, It's a few but I think we should count on them.
+
+263
+00:19:57,000 --> 00:19:59,469
+More than live-action, there's still some left in animation.
+
+264
+00:19:59,470  -->  00:20:04,700
+As for live-action, there was a recent live-action film called "Gamera",
+
+267
+00:20:05,000  -->  00:20:07,219
+Right. From Daiei Film.
+
+267
+00:20:07,220 --> 00:20:17,353
+I have a friend named Shinji Higuchi who does special effects,
+
+268
+00:20:17,354  -->  00:20:20,900
+Even though his staff don't get paid a lot, they're driven by the passion for the craft.
+
+269
+00:20:21,300  -->  00:20:30,600
+There are still some young people with ambition (willing to work hard for low pay) in live-action, but the medium's momentum is fading.
+
+272
+00:20:31,100  -->  00:20:45,000
+The number of films peaked in 1958, the year I became a director. I was shooting about three films in a year at that time.
+
+275
+00:20:46,000 --> 00:20:55,600
+If we shoot one movie every four years like we've been doing lately, I accumulate things I want to say, so the length of the film gets longer.
+
+278
+00:20:56,000 --> 00:21:02,694
+We think that films are entertainment,
+
+279
+00:21:02,694 --> 00:21:09,522
+but we still make films with the motive of "Let me say something here, even if it's just one thing."
+
+280
+00:21:11,150  -->  00:21:24,765
+For example, "Rainbow Kids".
+The ¥10 billion scam itself is interesting too, but
+
+282
+00:21:24,767 --> 00:21:42,460
+At the end of the film, the kidnapped old lady mutters to herself, "What has my country done for me?"
+
+284
+00:21:42,461 --> 00:21:48,009
+That's it. I basically shot that whole film, all to say that one thing.
+
+286
+00:21:49,000 --> 00:21:56,609
+A director has two things. Something you want to say and something you want to do. I don't think I've done it completely,
+
+289
+00:21:56,610 --> 00:22:03,576
+But to a certain extent I've tried with the film "The Elegant Life of Mr. Everyman."
+
+291
+00:22:04,400  -->  00:22:11,000
+It's not a matter of whether it's good or bad, but it's my favorite.
+
+293
+00:22:11,700  -->  00:22:22,500
+But it's also the film the studio hated the most.
+They got extremely angry, telling me, "We'll never let you write a script again."
+
+296
+00:22:23,500 --> 00:22:29,772
+All the films planned up until that point got shelved.
+
+297
+00:22:29,797 --> 00:22:33,414
+In reaction, I wrote "Nikudan."
+
+298
+00:22:34,093 --> 00:22:40,293
+There was no green light on the project, but I still wanted to write it.
+
+299
+00:22:41,120  -->  00:22:46,564
+The battle between the director and the studio is in many ways just as hard as the filmmaking, eh?
+
+301
+00:22:46,565 --> 00:22:48,252
+Yeah.
+
+302
+00:22:48,700 --> 00:22:53,000
+I think that's happening everywhere, unless you pay for it all yourself.
+
+304
+00:22:57,000  -->  00:23:00,700
+But it's still pretty relaxed here, compared to the US for instance.
+
+305
+00:23:02,203 --> 00:23:04,539
+That's because directors have the right of final cut here.
+
+306
+00:23:06,551 --> 00:23:08,640
+That right belongs to the producers in the US.
+
+307
+00:23:10,220 --> 00:23:12,264
+Eventually, they might order you to cut something.
+
+308
+00:23:12,265 --> 00:23:14,150
+Right, the person who's paying for everything...
+
+309
+00:23:14,750 --> 00:23:17,000
+That person is the strongest.
+
+310
+00:23:18,664 --> 00:23:28,635
+For us, as long as we pay some money, we don't fight over right of editing.
+
+311
+00:23:28,636 --> 00:23:31,486
+Editing is the only thing that is non-negotiable.
+
+312
+00:23:32,650 --> 00:23:38,616
+I once put negatives in my locker at home.
+
+313
+00:23:39,000  -->  00:23:46,600
+After I finish storyboarding, I can get someone to do the rough cut.
+But as we discussed previously, with the issue of the 2-frames or 8-frames problem,
+
+316
+00:23:46,601 --> 00:23:50,498
+if I don't do the final cut myself, my rhythm won't show up in the film.
+
+318
+00:23:50,687 --> 00:23:54,888
+In the case of animation, sometimes I have to work on the storyline without drawings.
+
+320
+00:23:54,913 --> 00:23:59,165
+That's my duty, but it's tough indeed.
+
+321
+00:24:00,600  -->  00:24:03,200
+But editing is so interesting.
+
+322
+00:24:04,000  -->  00:24:10,000
+The trial and error at the end of the editing process is challenging and fun to do.
+
+324
+00:24:10,001  -->  00:24:13,500
+Again, depending on whether I cut out 2 frames or not, it changes everything.
+
+326
+00:24:26,400 --> 00:24:29,836
+Kihachi Okamoto & Hideaki Anno
+END
